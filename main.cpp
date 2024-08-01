@@ -10,5 +10,6 @@
 int main(){
     std::cout<<"hello world\n";
     std::cout<<"second line\n";
+    std::cout<<"exit\n";
     return 0;
 }
